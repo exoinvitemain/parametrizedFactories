@@ -5,7 +5,7 @@
 <artifactId>${ARTIFACT_ID}</artifactId>
    <packaging>war</packaging>
    <version>${PROJECT_VERSION}</version>
-   <name>SpringDemo test</name>
+   <name>SpringDemo</name>
    <properties>
       <maven.compiler.source>1.6</maven.compiler.source>
       <maven.compiler.target>1.6</maven.compiler.target>
